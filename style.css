@@ -1,0 +1,119 @@
+.x{
+    
+    display: inline-block;
+    list-style: none;
+ margin-left: 13.68%;
+    margin-right: 14.5%;
+    padding: 5px;
+    border: none; 
+    border-radius: 100px;
+    background-color: black;
+     
+    
+}
+.head{
+    display: inline-block;
+  margin-left: 10.5%;
+    margin-right: 11.2%;
+    margin-top: 0px;
+   
+}
+.x a{
+    text-decoration: none;
+    color: #FFFFFF;
+    
+}
+
+.x:hover{
+    
+    background-color: #005DFF;
+    cursor: pointer;
+}
+body{
+   
+    background-color: white;   
+    background-image:  url(img/F-19.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Bebas Neue', cursive;
+}
+#mono{
+   
+    height: 15%;
+    background-color:black;
+    border-radius: 1px;
+    
+}
+#TanitimYazisiBaslik{
+    text-align: center;
+}
+#TanitimYazisi{
+   font-size: 20px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+
+.alt {
+    margin-right: 5%;
+   
+}
+
+
+
+.img{
+    width: 200px;
+}
+#img1{
+   
+    margin-bottom: 0px;
+}
+#img2{
+    margin-bottom: 25px;
+}
+#altbaslik{
+    text-align: center;
+    font-size: 48px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+.footer{
+
+    color: white;
+    text-align:center;
+    background-color: black;
+}
+.elemanlar img{
+  display:block;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10%;
+
+}
+.elemanlar h2{
+    font-size: 48px;
+      text-align: center;
+}
+.elemanlar h3{
+    font-size: 32px;
+      text-align: center;
+}
+
+.elemanlar h4{
+    font-size: 28px;
+      text-align: center;
+}
+.elemanlar p{
+    font-size: 22px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.bakim{
+    font-size: 48px;
+      text-align: center;
+}
+
